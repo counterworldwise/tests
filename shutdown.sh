@@ -1,2 +1,5 @@
 #!/bin/bash
-shutdown -h now
+mkdir scripts
+cd scripts
+touch main.sh
+nano main.sh
